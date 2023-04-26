@@ -312,14 +312,7 @@ Function list_tables {
 }
 
 
-function create_table {
-  read -p "Enter the name of the table: " tablename
-  read -p "Enter the schema of the table (column1:type,column2:type,...): " schema
-  touch $tablename
-  echo $schema > $tablename
-  echo "Table created successfully"
 
-}
 
 function drop_table (){
   clear
