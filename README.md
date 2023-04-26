@@ -5,4 +5,4 @@
 #Cearting Database using Bash shell script
 
 
-![Screenshot](bash_shell_screen.png)
+![Screenshot](https://pbs.twimg.com/profile_images/1472478006769770496/Oi_PX8Qn_400x400.jpg)
